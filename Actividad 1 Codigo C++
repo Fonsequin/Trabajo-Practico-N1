@@ -4,7 +4,7 @@ int main() // Funcion
 {
 	int numero1; // Varible Numero 2
 	int numero2; // Variable Numero 2
-	cout << "Este programa suma y mutiplica 2 numeros enteros. " << endl; //salida de datos (<<)
+	cout << "Este programa suma y mutiplica 2 numeros enteros. " << endl; // Texto explicativo
 	cout << endl; // Separacion
 	cout << "Ingrese el primer numeros entero: " << endl; // Entrada del primer numero
 	cin  >> numero1; // Datos guardado de numero
