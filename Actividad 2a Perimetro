@@ -10,6 +10,6 @@ int main() // Funcion prioritaria
     float perimero = lado * 4; // Operacion para calcular el perimetro
     cout << endl; // Separacion
     cout << "El resultado del perimetro es de: " << perimero << endl; // Resultado expresado en pantalla
-    cout << "Su procedimiento es: " << "brr brr patatim negrito ojos claro" << " * " << "4 "; // Procedimiento expresado en pantalla
+    cout << "Su procedimiento es: " << lado << " * " << "4 "; // Procedimiento expresado en pantalla
     return 0;
 }
