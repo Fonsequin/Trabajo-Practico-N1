@@ -6,7 +6,7 @@ int main() // Funcion
 	int numero2; // Variable Numero 2
         cout << "Calculadora muy basica"; // Titulo
         cout << endl; // Separacion
-	cout << "Este programa suma y mutiplica 2 numeros enteros. " << endl; // Texto explicativo
+	cout << "Este programa suma 2 numeros enteros. " << endl; // Texto explicativo
 	cout << endl; // Separacion
 	cout << "Ingrese el primer numeros entero: " << endl; // Entrada del primer numero
 	cin  >> numero1; // Datos guardado de numero 1
